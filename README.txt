@@ -1,8 +1,8 @@
 Hello Git and Github
 
-#Project discription
+# Project discription
 
-##Features:
+## Features:
 
 *test line*
 
